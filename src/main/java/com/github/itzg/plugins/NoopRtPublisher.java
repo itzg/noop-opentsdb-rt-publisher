@@ -1,4 +1,4 @@
-package me.itzg.dummyrtpub;
+package com.github.itzg.plugins;
 
 import com.stumbleupon.async.Deferred;
 import java.util.Map;
